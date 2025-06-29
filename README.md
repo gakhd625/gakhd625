@@ -6,7 +6,7 @@
   Hi !I'm Gerlie Ann Katherine Daga-as
 </h1>
 
-<h3 align="center">🚀 Passionate Software Developer | 💻 Full-Stack Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 Software Developer | 💻 Full-Stack/Cybersecurity Enthusiast | 🌱 Lifelong Learner</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gakhd625&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
