@@ -98,9 +98,6 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 ### Cloud & DevOps
 <p align="left">
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud"/>
-  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="Amazon Web Services" title="Amazon Web Services"/>
   </a>
