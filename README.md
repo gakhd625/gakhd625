@@ -20,11 +20,10 @@
 I'm a passionate software developer who loves creating innovative solutions and building amazing user experiences. Currently expanding my skills in Laravel and always excited to collaborate on interesting projects!
 
 - 🔭 I'm currently working on **web development projects**
-- 🌱 I'm currently learning **Laravel** and **advanced backend development**
+- 🌱 I'm currently learning **Flask** and **advanced backend development**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, JavaScript, and PHP**
 - 📫 How to reach me: **gerlieannkatherine.dagaas@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code!** ☕
 
 ---
 
