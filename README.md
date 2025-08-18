@@ -23,7 +23,6 @@ I'm a passionate software developer who loves creating innovative solutions and 
 - 🌱 I'm currently learning **Flask** and **advanced backend development**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, JavaScript, and PHP**
-- 📫 How to reach me: **gerlieannkatherine.dagaas@gmail.com**
 
 ---
 
@@ -175,9 +174,4 @@ A showcase of my work and skills built with modern web technologies.
 
 ---
 
-<div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  <p>Thanks for visiting my profile! Let's build something amazing together! 🚀</p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&animation=twinkling" />
 </div>
