@@ -4,7 +4,7 @@
   Hi !I'm Gerlie Ann Katherine Daga-as
 </h1>
 
-<h3 align="center">🚀 Software Developer | 💻 Cloud | Cybersecurity | AI </h3>
+<h3 align="center">Software Developer |  Cloud | Cybersecurity | AI </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gakhd625&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
@@ -13,11 +13,11 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate software developer who loves creating innovative solutions and building amazing user experiences. Currently expanding my skills in Laravel and always excited to collaborate on interesting projects!
 
-### Cloud & DevOps
+### Tools & DevOps
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="Amazon Web Services" title="Amazon Web Services"/>
@@ -30,6 +30,9 @@ I'm a passionate software developer who loves creating innovative solutions and 
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP"/>
+  </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" title="Laravel"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/>
