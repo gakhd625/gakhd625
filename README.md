@@ -44,7 +44,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gerlie-ann-katherine-daga-as-326554305" target="_blank">
