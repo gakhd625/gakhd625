@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Gerlie+Ann+Katherine;Software+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
+
 
 <h1 align="center">
   Hi !I'm Gerlie Ann Katherine Daga-as
