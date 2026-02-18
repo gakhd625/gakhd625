@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  Hi !I'm Gerlie Ann Katherine Daga-as
+  Hi !I'm Gerlie Ann 
 </h1>
 
 <h3 align="center">Software Developer |  Cloud | Cybersecurity | AI </h3>
