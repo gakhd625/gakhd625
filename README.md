@@ -26,7 +26,7 @@
   <a href="https://www.github.com/gakhd625" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="http://portfoliov2-rouge-one.vercel.app" target="_blank">
+  <a href="http://gerleyy.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
