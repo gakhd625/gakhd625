@@ -4,7 +4,7 @@
   Hi !I'm Gerlie Ann 
 </h1>
 
-<h3 align="center">Software Developer |  Cloud | Cybersecurity | AI </h3>
+<h3 align="center">Software Engineer |  Cloud | Cybersecurity | AI </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gakhd625&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
