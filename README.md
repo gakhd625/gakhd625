@@ -8,7 +8,7 @@
 
 ---
 
-I'm a Full-Stack Software Engineer focused on building scalable, production-ready applications with strong foundations in performance, reliability, and clean architecture. I develop modern web and platform systems while integrating cloud, security, and AI to deliver real-world solutions.
+I'm a Software Engineer building reliable, secure, and scalable solutions—from proposal to production-ready full-stack apps—exploring Cloud Infrastructure, Cybersecurity, and AI-powered systems.
 
 - **Software Engineering:** Building maintainable, scalable web applications and full-stack systems using modern frameworks and best practices.  
 - **Cloud & DevOps:** Designing cost-efficient, secure AWS architectures with Infrastructure as Code (Terraform) and serverless patterns.  
