@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Gerlie Ann 👋</h1>
-<h3 align="center">Software Engineer | Cloud | Cybersecurity | AI</h3>
+<h3 align="center">Full-Stack Software Engineer | Cloud | Cybersecurity | AI</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gakhd625&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
@@ -8,11 +8,12 @@
 
 ---
 
-I'm a Software Engineer focused on Cloud Infrastructure, Cybersecurity, and AI-powered systems. I build reliable, secure, and scalable solutions — from cloud architectures to full-stack web apps.
+I'm a Full-Stack Software Engineer focused on building scalable, production-ready applications with strong foundations in performance, reliability, and clean architecture. I develop modern web and platform systems while integrating cloud, security, and AI to deliver real-world solutions.
 
--  **Cloud & DevOps:** Designing cost-optimized, secure AWS architectures with IaC (Terraform) and serverless patterns.
--  **Security:** Hands-on experience with CSPM, cloud security posture, and threat modeling across AWS, Azure, and GCP.
--  **AI & Automation:** Building AI-driven tools for real-world workflows — from SOC triage to job seeker guidance.
+- **Software Engineering:** Building maintainable, scalable web applications and full-stack systems using modern frameworks and best practices.  
+- **Cloud & DevOps:** Designing cost-efficient, secure AWS architectures with Infrastructure as Code (Terraform) and serverless patterns.  
+- **Security:** Applying cloud security best practices, including CSPM, security posture management, and threat modeling across AWS, Azure, and GCP.  
+- **AI & Automation:** Developing AI-powered tools to streamline workflows, from security operations to intelligent user-facing systems.  
 
 ---
 
