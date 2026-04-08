@@ -10,9 +10,9 @@
 
 I'm a Software Engineer focused on Cloud Infrastructure, Cybersecurity, and AI-powered systems. I build reliable, secure, and scalable solutions — from cloud architectures to full-stack web apps.
 
-- ☁️ **Cloud & DevOps:** Designing cost-optimized, secure AWS architectures with IaC (Terraform) and serverless patterns.
-- 🔐 **Security:** Hands-on experience with CSPM, cloud security posture, and threat modeling across AWS, Azure, and GCP.
-- 🤖 **AI & Automation:** Building AI-driven tools for real-world workflows — from SOC triage to job seeker guidance.
+-  **Cloud & DevOps:** Designing cost-optimized, secure AWS architectures with IaC (Terraform) and serverless patterns.
+-  **Security:** Hands-on experience with CSPM, cloud security posture, and threat modeling across AWS, Azure, and GCP.
+-  **AI & Automation:** Building AI-driven tools for real-world workflows — from SOC triage to job seeker guidance.
 
 ---
 
